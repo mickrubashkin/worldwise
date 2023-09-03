@@ -1,4 +1,4 @@
-/* eslint-disable react/prop-types */
+/* eslint-disable react/prop-types */ // TODO: upgrade to latest eslint tooling
 import CityItem from './CityItem'
 import styles from './CityList.module.css'
 import Spinner from './Spinner'

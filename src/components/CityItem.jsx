@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import styles from './CityItem.module.css'
 
 const formatDate = (date) =>
@@ -8,7 +9,7 @@ const formatDate = (date) =>
   }).format(new Date(date))
 
 export default function CityItem({ city }) {
-  const { cityName, country, emoji, date, notes } = city
+  const { cityName, emoji, date } = city
 
   return (
     <li className={styles.cityItem}>
