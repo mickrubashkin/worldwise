@@ -35,6 +35,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Burguillos de Toledo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-04T14:49:52.794Z",
+      "notes": "Hey)",
+      "position": {
+        "lat": "39.80009595634841",
+        "lng": "-3.989335906231784"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Faro",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-04T14:54:00.424Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "37.00913272027146",
+        "lng": "-7.936637825819473"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Figueira da Foz",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-09-04T14:55:47.187Z",
+      "notes": "sdf",
+      "position": {
+        "lat": "40.1452892956766",
+        "lng": "-8.852203446167412"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Parla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-04T14:56:39.509Z",
+      "notes": "sdf",
+      "position": {
+        "lat": "40.22921818870117",
+        "lng": "-3.7689870035712385"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Alcorcon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-07T14:57:35.000Z",
+      "notes": "df",
+      "position": {
+        "lat": "40.345497469392406",
+        "lng": "-3.825829802207626"
+      },
+      "id": 98443202
     }
   ]
 }
