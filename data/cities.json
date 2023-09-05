@@ -37,18 +37,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Faro",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2023-09-04T14:54:00.424Z",
-      "notes": "asdf",
-      "position": {
-        "lat": "37.00913272027146",
-        "lng": "-7.936637825819473"
-      },
-      "id": 98443199
-    },
-    {
       "cityName": "Alcorcon",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -61,14 +49,14 @@
       "id": 98443202
     },
     {
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-09-04T15:11:02.982Z",
-      "notes": "sdf",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-05T14:44:00.115Z",
+      "notes": "sd",
       "position": {
-        "lat": "48.821332549646655",
-        "lng": "2.421673267837994"
+        "lat": "39.977120098439634",
+        "lng": "-0.010986328125"
       },
       "id": 98443203
     }
