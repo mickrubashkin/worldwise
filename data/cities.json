@@ -37,42 +37,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Alcorcon",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-07T14:57:35.000Z",
-      "notes": "df",
-      "position": {
-        "lat": "40.345497469392406",
-        "lng": "-3.825829802207626"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-05T14:44:00.115Z",
-      "notes": "sd",
-      "position": {
-        "lat": "39.977120098439634",
-        "lng": "-0.010986328125"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Puebla de Don Rodrigo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-07T06:44:19.197Z",
-      "notes": "test",
-      "position": {
-        "lat": "39.07489904411309",
-        "lng": "-4.702084949655699"
-      },
-      "id": 98443204
-    },
-    {
       "cityName": "Sceaux",
       "country": "France",
       "emoji": "🇫🇷",
@@ -83,6 +47,18 @@
         "lng": "2.284965426165466"
       },
       "id": 98443205
+    },
+    {
+      "cityName": "Ciudad Real",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-07T07:45:45.821Z",
+      "notes": "yay!",
+      "position": {
+        "lat": "38.976492485539424",
+        "lng": "-3.9166259765625004"
+      },
+      "id": 98443206
     }
   ]
 }
